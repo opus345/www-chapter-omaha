@@ -11,14 +11,14 @@ The Omaha OWASP Chapter was rebooted in 2013.
 
 The following individuals have participated as chapter leaders since the reboot:
 
-*Rob Temple
-*Scott Christensen
-*Michael Born
-*John Rogers
-*Zac Fowler
-*Fed Donovan
-*Justin Williams
-*Dave Pinos
+* Rob Temple
+* Scott Christensen
+* Michael Born
+* John Rogers
+* Zac Fowler
+* Fed Donovan
+* Justin Williams
+* Dave Pinos
 
 Omaha OWASP has been very active in presenting at events like Nebraska Code Camp, NebraskaCERT, and the Nebraska Cyber Security Conference.
 
